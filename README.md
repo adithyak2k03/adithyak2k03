@@ -26,7 +26,8 @@ I'm always eager to expand my knowledge and currently focusing on:
 ## 📫 Contact
 You can reach out to me via:
 
-- [Email](adithyak2143@gmail.com)
+  - [Email](adithyak2143@gmail.com)
+  - <a href="mailto:adithyak2143@gmail.com">Send Email</a>
 - [LinkedIn](https://www.linkedin.com/in/adithyak03)
   
 ## 🤝 Let's Connect
