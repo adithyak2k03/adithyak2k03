@@ -26,8 +26,9 @@ I'm always eager to expand my knowledge and currently focusing on:
 ## 📫 Contact
 You can reach out to me via:
 
-- Email: [Mail](adithyak2143@gmail.com)
-- LinkedIn: [Adithya](https://www.linkedin.com/in/adithyak03)
+- Email: [![download](https://github.com/adithyak2k03/adithyak2k03/assets/110721429/2d91830c-4a01-48eb-93c6-b5e8c13623b3)](adithyak2143@gmail.com)
+- LinkedIn: [![download](https://github.com/adithyak2k03/adithyak2k03/assets/110721429/5116e440-d777-4cd6-8427-08976aabddbc)
+](https://www.linkedin.com/in/adithyak03)
   
 ## 🤝 Let's Connect
 
