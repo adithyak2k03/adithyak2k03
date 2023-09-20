@@ -1,5 +1,6 @@
 # Hi👋, Welcome! 
-<img src="https://github.com/adithyak2k03/adithyak2k03/assets/110721429/c256880e-b229-4f54-a121-3a5f21bac7f4" width="230" align="right">
+<img src="https://github.com/adithyak2k03/adithyak2k03/assets/110721429/c256880e-b229-4f54-a121-3a5f21bac7f4" width="250" align="right">
+
 ## I'm Adithya 
 - I'm a Computer Science Engineering Student at SASTRA Deemed University.
 - My specialization is in Artificial Intelligence and Data Science.
