@@ -27,10 +27,10 @@ I'm always eager to expand my knowledge and currently focusing on:
 ## 📫 Contact
 You can reach out to me via:
 
-  <!-- - [Email](adithyak2143@gmail.com) -->
+  <!-- - [Email](adithyak2143@gmail.com) 
   - <a href="mailto:adithyak2143@gmail.com">Email</a>
 - [LinkedIn](https://www.linkedin.com/in/adithyak03)
-  
+-->  
 ## 🤝 Let's Connect
 
 I'm always open to connecting with fellow developers. Let's collaborate on something amazing!
