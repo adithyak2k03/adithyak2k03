@@ -1,4 +1,4 @@
-<h1> Hi👋, Welcome!</h1> 
+## Hi👋, Welcome!
 
 <img src="https://github.com/adithyak2k03/adithyak2k03/assets/110721429/c256880e-b229-4f54-a121-3a5f21bac7f4" width="250" align="right">
 
@@ -27,10 +27,9 @@ I'm always eager to expand my knowledge and currently focusing on:
 ## 📫 Contact
 You can reach out to me via:
 
-  <!-- - [Email](adithyak2143@gmail.com) 
+  <!-- - [Email](adithyak2143@gmail.com) -->
   - <a href="mailto:adithyak2143@gmail.com">Email</a>
-- [LinkedIn](https://www.linkedin.com/in/adithyak03)
--->  
+- [LinkedIn](https://www.linkedin.com/in/adithyak03)  
 ## 🤝 Let's Connect
 
 I'm always open to connecting with fellow developers. Let's collaborate on something amazing!
