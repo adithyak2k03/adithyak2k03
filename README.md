@@ -11,7 +11,7 @@
       <li>My goal is to become a Data Scientist.</li>
     </ul>
   </div>
-  <div style="margin-left: auto; margin-right: 0">
+  <div style="margin-right: 0;">
     <img src="https://github.com/adithyak2k03/adithyak2k03/assets/110721429/a94df66a-470b-4521-a55a-4f1ed76786b5" width="250">
   </div>
 </div>
