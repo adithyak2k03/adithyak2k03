@@ -3,7 +3,7 @@
 <!--<img src="https://github.com/adithyak2k03/adithyak2k03/assets/110721429/c256880e-b229-4f54-a121-3a5f21bac7f4" width="250" align="right">-->
 
 
-<div div style="float:right; margin-left:10px;">
+<div div style="float:right; margin-right:10px;">
   <img src="https://github.com/adithyak2k03/adithyak2k03/assets/110721429/a94df66a-470b-4521-a55a-4f1ed76786b5" width="250">
 </div>
 
