@@ -10,7 +10,7 @@
 ## I'm Adithya 
 - I'm a Computer Science Engineering Student at SASTRA Deemed University.
 - My specialization is in Artificial Intelligence and Data Science.
-- My goal is to become a Data Scientist.
+- My ulimiate goal is to become a Data Scientist.
   
 ## 🛠️ Skills
 Strong knowledge in Machine learning and Deep learning Algorithms workings and implementation.
@@ -26,7 +26,8 @@ Strong knowledge in Machine learning and Deep learning Algorithms workings and i
 I'm always eager to expand my knowledge and currently focusing on:
 
 - DS-Algo
-- React JS and Backend Development Development
+- React JS
+- Backend Development Development
 - Data Visualization
 
 ## 📫 Contact
