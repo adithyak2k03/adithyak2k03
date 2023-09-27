@@ -27,7 +27,7 @@ I'm always eager to expand my knowledge and currently focusing on:
 
 - DS-Algo
 - React JS
-- Backend Development Development
+- Backend Development
 - Data Visualization
 
 ## 📫 Contact
