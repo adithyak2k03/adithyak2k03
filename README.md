@@ -10,6 +10,7 @@
 ## I'm Adithya 
 - I'm a Computer Science Engineering Student at SASTRA Deemed University.
 - My specialization is in Artificial Intelligence and Data Science.
+- I am highly interested in Developing Web Applications
 - My ulimiate goal is to become a Data Scientist.
   
 ## 🛠️ Skills
