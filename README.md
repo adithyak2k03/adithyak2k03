@@ -1,6 +1,6 @@
-<h1 align="center"> 
+&lt;h1 align="center"&gt; 
    Hi👋, Welcome! 
-</h1>
+&lt;/h1&gt;
 
 
 <!--<img src="https://github.com/adithyak2k03/adithyak2k03/assets/110721429/c256880e-b229-4f54-a121-3a5f21bac7f4" width="250" align="right">--> 
