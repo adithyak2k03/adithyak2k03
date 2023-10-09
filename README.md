@@ -17,7 +17,7 @@
 Strong knowledge in Machine learning and Deep learning Algorithms workings and implementation.
 
 ## 💻 My Portfolio Website
-<a href="https://adithyak2k03.github.io/Portfolio/"> Portfolio</a>
+<a href="https://adithyak2k03.github.io/Portfolio/" target="_blank"> Portfolio</a>
 
 ## ⭐ Areas of Interest
 - Building Purpose-driven Machine learning models.
